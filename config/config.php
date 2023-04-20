@@ -30,7 +30,7 @@
  * -------------------------------------------------------------*/
     
     // título de la aplicación
-    define('APP_NAME','FastLight Framework');
+    define('APP_NAME','cifoplaces');
     
     // tipo de aplicación
     define('APP_TYPE', 'APP'); // puede ser APP o API
