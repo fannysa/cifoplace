@@ -62,7 +62,7 @@
  * HERRAMIENTAS DE DEPURACIÓN (PARA TIPO APP)
  * -------------------------------------------------------------*/
     
-    define('DEBUG', true);    // activa el modo debug                     
+    define('DEBUG', false);    // activa el modo debug                     
     
     // detalle a mostrar en la info de debug tras un error
     // OPCIONES: user, trace, post, get, session, cookie, client
